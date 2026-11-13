@@ -1,4 +1,4 @@
-const CACHE = 'photo-cache-v01';
+const CACHE = 'photo-cache-v02';
 const CACHE_PREFIX = 'photo-cache-';
 
 const ASSETS = [
